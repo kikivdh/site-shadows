@@ -31,14 +31,16 @@
 
   <body>
      <h1 style="background-color:LavenderBlush;">sites:</h1>
+     
+     <img src="Asset 3.png">
 
      <p style="background-color:AliceBlue;">
      some diaries of light, or not-light
-           getting lost in bookworks, getting lost on land, cycling out and not coming all the way back. 
+           getting lost in bookworks, getting lost on land, getting lost in the computer,<br>cycling out and not coming all the way back.
      </p>
    
      <img src="Screenshot_2020-08-22-23-36-27.jpg">
-     <img src="Screenshot_2020-08-22-23-37-06.jpg">
+     <img src="Screenshot_2020-08-22-23-36-51.jpg">
      
      <p style="background-color:SeaGreen;">
      27/09/20 Smoke running Clydeside. Poles and bridges come up lavender.
